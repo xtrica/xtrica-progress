@@ -1,6 +1,6 @@
 {
   "name": "xtrica-progress",
-  "version": "1.0.1513665086",
+  "version": "1.0.1513665423",
   "description": "Xtrica Progress: A javascript class for adding / updating progress bars in multiple containers, at the same time, on the same page, styled however.",
   "main": "index.js",
   "author": {
